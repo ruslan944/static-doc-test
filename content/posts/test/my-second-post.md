@@ -1,7 +1,6 @@
 ---
 title: "My Second Post"
 date: 2022-08-23T10:39:39+02:00
-draft: true
 ---
 
 # Test
