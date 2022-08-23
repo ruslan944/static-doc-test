@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Geekdocs</title>
+    <link>http://localhost/</link>
+    <description>Recent content on Geekdocs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 23 Aug 2022 10:39:39 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Aug 2022 10:39:39 +0200</lastBuildDate><atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Second Post</title>
-      <link>http://example.org/posts/test/my-second-post/</link>
+      <link>http://localhost/posts/test/my-second-post/</link>
       <pubDate>Tue, 23 Aug 2022 10:39:39 +0200</pubDate>
       
-      <guid>http://example.org/posts/test/my-second-post/</guid>
-      <description>Test a = 1 for i in range(19): print(i) test
+      <guid>http://localhost/posts/test/my-second-post/</guid>
+      <description> Test a = 1 for i in range(19): print(i) test
 a := 1 fmt.Println(a) </description>
     </item>
     
