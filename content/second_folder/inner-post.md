@@ -1,9 +1,6 @@
 ---
 title: "Inner Post"
 date: 2022-08-23T11:32:08+02:00
----
-
----
 resources:
   - name: forest-1
     src: "forest-1.jpg"
